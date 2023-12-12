@@ -1,0 +1,44 @@
+.upload-icon{
+    margin-right:10px;
+    font-size: 30px;
+}
+.logo{
+    height: 26px;
+    margin-right:10px;
+}
+.head{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.total-items{
+    font-family: "roboto";
+    font-size: 12px;
+    align-self:flex-end;
+    margin-right: 20px;
+    color:grey;
+}
+.title{
+
+    font-family:"roboto";
+    font-size:12px;
+}
+.button{
+    border-radius: 0px;
+    margin-right:10px;
+}
+.input-field{
+    border:none;
+    font-family: "roboto";
+    font-size: 15px;
+    outline: none;
+
+}
+.input-container{
+    display: flex;
+    border: 1px solid grey;
+    align-items: center;
+    padding-left: 10px;
+    width:50%;}
